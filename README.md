@@ -71,7 +71,7 @@ weather-app/
    ```
    npm start
    
-4.Opens in your browser  
+4. Opens in your browser  
    http://localhost:3000
 
  ---  
