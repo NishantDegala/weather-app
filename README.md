@@ -52,9 +52,9 @@ weather-app/
 ## 🚀 Getting Started
 
 ### 🧰 Prerequisites
-- Node.js (v16+ recommended)  
+- Node.js (v16+ recommended)  https://nodejs.org/en/download
 - npm 
-- OpenWeatherMap API key (free tier)
+- OpenWeatherMap API key (free tier) https://home.openweathermap.org/
 
 ### 🔧 Installation Steps
 
