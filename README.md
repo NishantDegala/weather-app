@@ -31,7 +31,7 @@ The app allows users to:
 ---
 
 ## 🧩 Project Structure
-
+```
 weather-app/
 ┣ src/
 ┃ ┣ components/
@@ -46,7 +46,7 @@ weather-app/
 ┣ public/
 ┣ package.json
 ┗ README.md
-
+```
 ---
 
 ## 🚀 Getting Started
