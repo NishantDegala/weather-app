@@ -1,4 +1,4 @@
-# 🌤️ Weather App — ASE Challenge (Frontend Project)
+# 🌤️ Weather App
 
 A clean, responsive React application that displays real-time weather information and a 5-day forecast for any city using the OpenWeatherMap API.
 
@@ -99,15 +99,6 @@ Responsive design ensures usability on desktop and mobile.
 
 Temperature shown in metric units (°C).
 
-🔐 Note on API Key Usage
-
-For the purpose of this challenge and easy reviewer access:
-
-The OpenWeatherMap API key is temporarily included in the code.
-
-This key will be revoked and deleted after 10th October 2025 (if selected 14th).
-
-In a real-world setup, API keys should always be stored securely in .env files and never committed to Git.
 
 📸 Screenshots
 <img width="1917" height="915" alt="image" src="https://github.com/user-attachments/assets/980a4c56-10c8-4a2e-a528-6b7a9707179a" />
@@ -116,6 +107,6 @@ In a real-world setup, API keys should always be stored securely in .env files a
 
 👋 Nishant Degala
 📍 India
-💼 https://github.com/NishantDegalal | www.linkedin.com/in/nishant-degala
+💼 https://github.com/NishantDegala | www.linkedin.com/in/nishant-degala
 📧 nishant.degala@gmail.com
 
